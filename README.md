@@ -1,6 +1,6 @@
 # IBM Vault Timezone 1 Lock 4
 
-![GitHub last commit](https://img.shields.io/github/last-commit/bojand/mailgun-js.svg?style=popout)
+![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg)
 [![Buy me a coffee](https://img.shields.io/badge/buy%20me-a%20coffee-orange.svg?style=popout)](https://www.buymeacoffee.com/3GHnDh9Ea)
 
 ## How does it work?
