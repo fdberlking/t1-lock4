@@ -7,9 +7,17 @@
 
 Follow the instructions to solve the puzzle:
 
-- Upon getting to the repository the user sees various commits and issues
-- The 'about' page contains instructions to fork the repo as well as a list of numbers and letters that upon closer inspection are related to different pairs of commits.
-- The user must then track down the different commits and look for the differences between them (a mix of binary and hex strings)
-- Once finding all of the differences, the user must convert all of them into ASCII to reveal the github issue they need to find. 
-- The github issue contains a list of instructions for the user to follow github commands to pull certain branches/commits together. 
-- Upon merging these commits the answer is revealed by running the code
+1) Upon getting to the repository the user sees various commits and issues
+2) Track down the following different commits and look in the comments sections to find the right commit. In every comment section will be a different letter which reveals the final commit for the upcoming steps:
+
+- 7a6cf85b23721588dfd6bed3cef85e8f7922700c
+- a62551678e3c015cc0a619ea5810c13d2197a4c7
+- 6ae987d64fd3dbc29c17eb29f4db186d6b617223
+- 962cb7f68373c36402345fbb3397683f6f8243fe
+- 8dc65d6414f48ad77771d010ed0721697aeee8fb
+- e3b9fe5c4eacdb3a22e59cd6b0b39e4fd8273e0d
+- 19ac339018a9b8f98dcb1d7559a184567c61069b
+
+3) Take the differences in the files and convert all of them into ASCII to reveal the final commit you need to look for. To receive it, use the ASCII code and paste it into the chatbot which gives you the answer.
+4) The github issue contains a list of instructions to follow github commands to pull certain branches/commits together.
+5) Upon merging and pushing these commits the answer is revealed
