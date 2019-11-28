@@ -18,6 +18,6 @@ Follow the instructions to solve the puzzle:
 - e3b9fe5c4eacdb3a22e59cd6b0b39e4fd8273e0d
 - 19ac339018a9b8f98dcb1d7559a184567c61069b
 
-3) Take the differences in the files and convert all of them into ASCII to reveal the final commit you need to look for. To receive it, use the ASCII code and paste it into the chatbot which gives you the answer.
+3) Take the differences in the files and convert all of them into ASCII to reveal the final commit you need to look for. To receive it, use the ASCII code and paste it into the chatbot which gives you the answer: https://assistant-chat-us-south.watsonplatform.net/web/public/e8478f24-171b-4038-a441-bf1cf5873b4c
 4) The github issue contains a list of instructions to follow github commands to pull certain branches/commits together.
 5) Upon merging and pushing these commits the answer is revealed
